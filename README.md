@@ -1,3 +1,3 @@
-This is mine React Web Resume.
+<h3>A Web Resume build with React and vanilla JS</h3>
 
-sio5.github.io
+https://sio5.github.io
